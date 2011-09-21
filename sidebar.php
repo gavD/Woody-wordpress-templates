@@ -36,12 +36,3 @@
 		<?php endif; // end primary widget area ?>
 			</ul>
         </div><!-- /sidebar -->
-<?php
-	// A second sidebar for widgets, just because.
-	if ( is_active_sidebar( 'secondary-widget-area' ) ) : ?>
-
-			<ul class="xoxo secondary-widget-area">
-				<?php dynamic_sidebar( 'secondary-widget-area' ); ?>
-			</ul>
-
-<?php endif; ?>
