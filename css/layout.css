@@ -659,3 +659,7 @@ div.attachment {
 .dateandauthor {
     font-style: italic;
 }
+
+.sermon {
+    width: 408px;
+}
