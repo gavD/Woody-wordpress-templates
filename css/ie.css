@@ -1,0 +1,29 @@
+#searchform #searchsubmit {
+    float: right;
+}
+
+div.column h2,
+div.column h2 a,
+div.column h2 a:visited {
+    color: #8C1010;
+}
+
+#sidebar h3 a {
+    color: #121212;
+    font-weight: bold;
+}
+#sidebar #dsp-widget a {
+    color: #666666;
+    font-weight: bold;
+}
+
+ul.pagination li
+{
+
+    display: inline
+}
+ul.pagination {
+    margin: 0px auto 0;
+    width: 130px;
+    padding-left: 65px;
+}

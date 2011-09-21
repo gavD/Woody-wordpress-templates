@@ -1,0 +1,13 @@
+/*
+Theme Name: Woodville Baptist Church
+Theme URI: http://andrewcanham.com
+Description: Custom theme for Woodville Baptist Church (based on Starkers)
+Version: 1.0
+Author: Andrew Canham & Gavin Davies
+Author URI: http://andrewcanham.com
+Tags: woodville, baptist, church
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";
