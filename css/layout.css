@@ -432,13 +432,13 @@ ol, ol li {
 
 #homepage-content {
     background: #E5E5E5;
-    height: 720px;
+    height: 732px;
     text-align: center;
 }
     #homepage-content-columns {
         margin:0 auto;
         width: 900px;
-        height: 720px;
+        height: 732px;
         overflow: hidden;
     }
 
@@ -645,4 +645,17 @@ div.attachment {
 
 .page-template-page-with-banner-php #main {
     padding-top: 0px;
+}
+
+
+.lcp_catlist li {
+    background-image: none !important;
+    padding-left: 0px !important;
+}
+.lcp_catlist h3 {
+    margin-top: 4px;
+}
+
+.dateandauthor {
+    font-style: italic;
 }
