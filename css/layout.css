@@ -432,13 +432,11 @@ ol, ol li {
 
 #homepage-content {
     background: #E5E5E5;
-    height: 732px;
     text-align: center;
 }
     #homepage-content-columns {
         margin:0 auto;
         width: 900px;
-        height: 732px;
         overflow: hidden;
     }
 
