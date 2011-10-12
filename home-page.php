@@ -15,10 +15,13 @@ get_header(); ?>
     <div id="homepage-slider">
 <div id="slides">
   <div class="slides_container">
-     <div>
-        <a href="/get-involved/baptism"><img src="/wp-content/uploads/2010/12/baptism.jpg" width="672" height="241" alt="Baptism" /></a>
+    <div>
+        <a href="/activities/students"><img title="Visible" width="672" height="241"
+           alt="Students"
+           class="attachment-900x9999"
+           src="/wp-content/themes/woody/img/slider/studentslarge.jpg" /></a>
     </div>
-     <div>
+    <div>
         <a href="/resources"><img src="/wp-content/uploads/2010/12/resources.jpg" width="672" height="241" alt="Resouces" title="Resources - download sermons, browse links or hire the hall "/></a>
     </div>
      <div>
@@ -27,26 +30,10 @@ get_header(); ?>
     <div>
         <a href="/get-involved/home-groups"><img src="/wp-content/uploads/2010/12/home-groups.jpg" alt="Home groups" title="Home Groups" width="672" height="241" /></a>
     </div>
-    <div>
-        <a href="/activities/students"><img title="Visible" width="672" height="241"
-           alt="Students"
-           class="attachment-900x9999"
-           src="/wp-content/themes/woody/img/slider/studentslarge.jpg" /></a>
-    </div>
-
-      <!--
-    <div>
-      
-    </div>
-
 
     <div>
-        <a href="/activities/students"><img title="Visible" width="570" height="188"
-           alt="Students"
-           class="attachment-900x9999"
-           src="/wp-content/themes/woody/img/slider/studentslarge.jpg" /></a>
+        <a href="/get-involved/baptism"><img src="/wp-content/uploads/2010/12/baptism.jpg" width="672" height="241" alt="Baptism" /></a>
     </div>
-      -->
   </div>
 </div>
     </div>
