@@ -19,7 +19,7 @@ get_header(); ?>
         <a href="/activities/students"><img title="Visible" width="672" height="241"
            alt="Students"
            class="attachment-900x9999"
-           src="/wp-content/themes/woody/img/slider/studentslarge.jpg" /></a>
+           src="/wp-content/uploads/2010/12/students.jpg" /></a>
     </div>
     <div>
         <a href="/resources"><img src="/wp-content/uploads/2010/12/resources.jpg" width="672" height="241" alt="Resouces" title="Resources - download sermons, browse links or hire the hall "/></a>
