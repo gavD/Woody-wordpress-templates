@@ -661,3 +661,11 @@ div.attachment {
 .sermon {
     width: 408px;
 }
+
+.topLine .post-meta {
+    display: none;
+}
+
+.lcp_catlist .attachment-thumbnail {
+    float: left;
+}
