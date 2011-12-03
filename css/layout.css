@@ -668,4 +668,6 @@ div.attachment {
 
 .lcp_catlist .attachment-thumbnail {
     float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
 }
